@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://mamaPvP.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -80,7 +80,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Last finish project -> Fdf
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
