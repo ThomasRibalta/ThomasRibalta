@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://mamaPvP.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src=# align="center" style="width: 100%" />
 </div>  
   
 
