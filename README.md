@@ -8,7 +8,7 @@
 - 🌱 I'm [42 Student](https://42perpignan.fr)  
   
 
-- 🔭 I’m currently working on [PushSwap](https://github.com/mamaPvP/minishell)  
+- 🔭 I’m currently working on [Minishell](https://github.com/mamaPvP/minishell)  
   
 
 - 📕 I'm currently learning Docker and some apps like React  
@@ -73,9 +73,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->  
+## Recent Blog Posts   
 
 <br/>  
 
