@@ -1,6 +1,5 @@
 <div align="center">
 </div>  
-![](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)
 
 ##   Hi,  I'm Thomas lovers of hard work 👨‍💻 have been developing since 2020 🚀  
   
