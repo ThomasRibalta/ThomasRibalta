@@ -1,6 +1,6 @@
 <div align="center">
 </div>  
-  
+![](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)
 
 ##   Hi,  I'm Thomas lovers of hard work 👨‍💻 have been developing since 2020 🚀  
   
@@ -8,7 +8,7 @@
 - 🌱 I'm [42 Student](https://42perpignan.fr)  
   
 
-- 🔭 I’m currently working on [Minishell](https://github.com/mamaPvP/minishell)  
+- 🔭 I’m currently working on [Minishell](https://github.com/ThomasRibalta/minishell)  
   
 
 - 📕 I'm currently learning Docker and some apps like React  
@@ -50,7 +50,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/mamaPvP" target="_blank">
+<a href="https://github.com/ThomasRibalta" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/thomas.rba" target="_blank">
@@ -66,9 +66,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=mamaPvP&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=ThomasRibalta&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamaPvP&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasRibalta&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -82,7 +82,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mamaPvP&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ThomasRibalta&&style=flat-square" align="center" />
 </div>  
   
 
