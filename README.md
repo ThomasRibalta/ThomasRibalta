@@ -16,10 +16,10 @@
 
 ## Selected Repositories
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasRibalta&repo=minishell&theme=merko)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasRibalta&repo=Trophee-NSI-2023&theme=merko)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasRibalta&repo=MineCoinsPlayerAPI&theme=merko)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasRibalta&repo=learn-php&theme=merko)
+<a href="https://github.com/ThomasRibalta/minishell" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasRibalta&repo=minishell&theme=merko)</a>
+<a href="https://github.com/ThomasRibalta/Trophee-NSI-2023" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasRibalta&repo=Trophee-NSI-2023&theme=merko)</a>
+<a href="https://github.com/ThomasRibalta/MineCoinsPlayerAPI" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasRibalta&repo=MineCoinsPlayerAPI&theme=merko)</a>
+<a href="https://github.com/ThomasRibalta/learn-php" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasRibalta&repo=learn-php&theme=merko)</a>
 
 ## Stats
 
