@@ -29,7 +29,7 @@
 <img src="https://komarev.com/ghpvc/?username=thomasribalta&label=Profile%20views&color=0e75b6&style=flat" alt="thomasribalta" />
 
 <br>
-<br>
+<br> 
 
 <p align="center">
 <a href="https://twitter.com/2564gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2564gamer" height="30" width="40" /></a>
