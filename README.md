@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&color=2FBE4C&random=false&width=435&lines=Hello%2C+There!+%F0%9F%AB%A1;his+is+Thomas+RIBALTA...;Nice+to+meet+you!+%F0%9F%98%80)](https://git.io/typing-svg)
 <br>
 
-## Used/Learning Languages 
+## Used/Learning Languages
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="90" height="90"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90"/>
